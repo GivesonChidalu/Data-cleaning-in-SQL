@@ -9,7 +9,7 @@ Data in the real world is almost always messy. I took a raw dataset of global la
 I built a multi-step SQL pipeline to transform this "swamp" of data into a clean, query-ready database. My focus was on data integrity, ensuring every row was unique and every column was correctly typed for future analysis.
 
 ### 🛠️ Tech Stack
-* **Language:** SQL (MySQL/PostgreSQL)
+* **Language:** SQL (MySQL)
 * **Key Concepts:** CTEs, Window Functions, Schema Migrations, Data Imputation.
 
 ---
